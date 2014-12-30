@@ -15,6 +15,6 @@ var mappedOptions = _(options.options)
   .reverse();
 
 module.exports = {
-  raw: options,
+  raw: _(options).merge(optionPrices).value(),
   data: mappedOptions
 };
