@@ -1,0 +1,23 @@
+header {
+  margin: 50px 0;
+  text-align: center;
+}
+div.browser-header {
+  border-bottom: 1px solid #E1E1E1;
+}
+label.show-pricing {
+  margin-top: 5px;
+  text-align: right;
+}
+label.show-pricing span.label-body {
+  font-size: 1.7rem;
+  margin-left: 10px;
+  vertical-align: -1px;
+}
+table tfoot tr.subtotal td {
+  background: #f7f7f7;
+  padding-left: 15px;
+}
+table tfoot tr.total td {
+  
+}

@@ -1,0 +1,25 @@
+{
+  "name": "tesla-options-browser",
+  "version": "1.0.0",
+  "description": "Tesla Options Browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicksergeant/tesla-options-browser.git"
+  },
+  "author": "Nick Sergeant",
+  "bugs": {
+    "url": "https://github.com/nicksergeant/tesla-options-browser/issues"
+  },
+  "homepage": "https://github.com/nicksergeant/tesla-options-browser",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "q": "^1.1.2",
+    "react": "^0.12.1",
+    "reactify": "^0.17.1",
+    "watchify": "^2.1.1"
+  }
+}
