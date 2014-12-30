@@ -13,6 +13,12 @@ label.show-pricing span.label-body {
   font-size: 1.7rem;
   margin-left: 10px;
   vertical-align: -1px;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 table tfoot tr.subtotal td {
   background: #f7f7f7;
